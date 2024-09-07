@@ -16,4 +16,6 @@
 
 ## Setup and Installation 
 1. Clone the repository:
-   ```bash    git clone https://github.com/your-username/face-recognition-multi-model.git    cd face-recognition-multi-model
+   ```bash
+   git clone https://github.com/your-username/face-recognition-multi-model.git
+   cd face-recognition-multi-model
