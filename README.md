@@ -1,6 +1,6 @@
 # Intaligent_door_bell
-## Face Recognition with Multi-Model Verification System  This project implements a real-time face recognition system using multiple face similarity models (FaceNet, ArcFace, MobileFaceNet) to improve accuracy and robustness. By combining the outputs of different models, the system verifies the identity of a person and minimizes false positives. The system can be used for various purposes such as access control, smart home systems, or security applications. -
-## Features - 
+## Face Recognition with Multi-Model Verification System  This project implements a real-time face recognition system using multiple face similarity models (FaceNet, ArcFace, MobileFaceNet) to improve accuracy and robustness. By combining the outputs of different models, the system verifies the identity of a person and minimizes false positives. The system can be used for various purposes such as access control, smart home systems, or security applications.
+## Features
 **Multi-Model Verification**: Uses multiple models (FaceNet, ArcFace, MobileFaceNet) to verify the similarity of detected faces. - 
 **Real-Time Face Recognition**: Captures video feed using a webcam and processes frames in real-time. - 
 **Embeddings Persistence**: Face embeddings are saved and loaded for faster system initialization and efficient processing. - 
