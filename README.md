@@ -22,6 +22,9 @@
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the project:
+3. Collectin data:
    ```bash
-   python main.py
+   python datacollector.py 
+4. Run the project:
+   ```bash
+   python main.py  
