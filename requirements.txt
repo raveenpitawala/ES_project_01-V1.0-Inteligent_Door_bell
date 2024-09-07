@@ -1,0 +1,10 @@
+torch>=1.7.0
+opencv-python>=4.5.1
+Pillow>=8.0.1
+keras>=2.4.3
+tensorflow>=2.5.0
+keras-facenet>=0.3.2
+numpy>=1.19.5
+deepface>=0.0.68
+pandas>=1.1.5
+scipy>=1.5.4
