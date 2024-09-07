@@ -19,3 +19,9 @@
    ```bash
    git clone https://github.com/your-username/face-recognition-multi-model.git
    cd face-recognition-multi-model
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the project:
+   ```bash
+   python main.py
